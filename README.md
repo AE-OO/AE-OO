@@ -10,7 +10,7 @@
 My major is electronics engineering. But, I learned programming language for the first time in my major class and it was so interesting that I started to study programming language in earnest.
 
 
-I want to be a competent back-end developer. That is why I'm studying hard.🔥
+I reallyreallyreally want to be a competent back-end developer. That is why I'm studying hard.🔥
 
 #
 
