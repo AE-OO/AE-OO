@@ -51,5 +51,5 @@ I reallyreallyreally want to be a competent back-end developer. That is why I'm 
 
 #
 
-#### 🔥BACKJOON TIER🔥
+#### 🔥BAEKJOON TIER🔥
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woon1998)](https://solved.ac/woon1998)
