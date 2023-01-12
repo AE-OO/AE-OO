@@ -46,8 +46,8 @@ I reallyreallyreally want to be a competent back-end developer. That is why I'm 
 
 #
 #### 🏆MY STATS & USED LANGUAGES🏆
-![AE-OO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AE-OO&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AE-OO&layout=compact&theme=material-palenight)
+![AE-OO's GitHub stats](https://github-readme-stats.vercel.app/api?user=AE-OO&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=AE-OO&layout=compact&theme=material-palenight)
 
 #
 
