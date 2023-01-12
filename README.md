@@ -44,11 +44,11 @@ I reallyreallyreally want to be a competent back-end developer. That is why I'm 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-#
+<!--#
 #### 🏆MY STATS & USED LANGUAGES🏆
 ![AE-OO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AE-OO&show_icons=true&theme=great-gatsby)
-[![AE-OO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AE-OO)](https://github.com/AE-OO/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AE-OO&layout=compact&theme=material-palenight)
+--!>
 
 #
 
