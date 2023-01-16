@@ -44,13 +44,12 @@ I reallyreallyreally want to be a competent back-end developer. That is why I'm 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+<!--#
 #
 
 #### 🔥BAEKJOON TIER🔥
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woon1998)](https://solved.ac/woon1998)
 
-
-<!--#
 #### 🏆MY STATS & USED LANGUAGES🏆
 ![AE-OO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AE-OO&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AE-OO&layout=compact&theme=material-palenight)
